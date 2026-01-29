@@ -36,7 +36,7 @@ def carregar_dados():
 ia_components = carregar_ia()
 df = carregar_dados()
 
-st.title("🚜 SmartSpray: Sistema de Manutenção Preventiva")
+st.title("🚜 SmartSpray: Sistema de Manutenção Preditiva")
 st.markdown("**Monitoramento de Saúde e Vida Útil (RUL)**")
 
 if df is not None and ia_components is not None:
