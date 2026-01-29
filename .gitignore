@@ -1,0 +1,12 @@
+figura1_matriz_confusao.png
+figura2_importancia_sensores.png
+figura3_rul_scatter.png
+grafico_importancia_sensores.png
+grafico_matriz_confusao.png
+grafico_rul_scatter.png
+gerador_graficos.py
+Notebook_ML_Pulverizador_Igor.ipynb
+encoder_estado.joblib
+encoder_secao.joblib
+modelo_classificador.joblib
+modelo_regressor.joblib
